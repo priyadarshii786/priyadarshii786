@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Jaipur, India</h3>
 <!-- jai ganesh -->
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/bQ8uA.gif">
+<img align="right" alt="coding" width="400" src="[https://tenor.com/bQ8uA.gif](https://tenor.com/en-GB/view/dev_animado-gif-25018018)">
 
 - 🌱 I’m currently into **Web Development and App Development**
 
