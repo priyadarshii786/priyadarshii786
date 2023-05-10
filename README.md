@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋 I'm Tathagat Priyadarshi, a 2nd Year Undergraduate Student</h1>
-<h3 align="center">A passionate Software Engineer from Jaipur, India</h3>
+<h3 align="center">A Software Engineer from Jaipur, India</h3>
 <!-- jai ganesh -->
 
-<img align="right" alt="coding" width="400" src="[https://tenor.com/en-GB/view/coding-gif-24297652](https://tenor.com/en-GB/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682)">
+<img align="right" alt="coding" width="400" src="[[https://tenor.com/en-GB/view/coding-gif-24297652](https://tenor.com/en-GB/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682)](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)">
 
 - 🌱 I’m currently into **Web Development and App Development**
 
 - 📫 You can reach me through **priyadarshi1131@gmail.com**
 
-- ⚡ About **A Son, brother and Programmer**
+- ⚡ About: **A Son, brother and Programmer**
 
 - 😄 Pronouns: He/Him
 
