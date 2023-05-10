@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from Jaipur, India</h3>
 <!-- jai ganesh -->
 
-<img align="right" alt="coding" width="400" src="[[https://tenor.com/en-GB/view/coding-gif-24297652](https://tenor.com/en-GB/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682)](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)">
+<img align="right" alt="coding" width="400" src="background me.jpg">
 
 - 🌱 I’m currently into **Web Development and App Development**
 
