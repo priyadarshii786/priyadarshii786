@@ -30,16 +30,13 @@
         <a href="https://www.instagram.com/chik.kuu404/" target="blank"><img align="center"
                         src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_960_720.png"
                         alt="chik.kuu404" height="40" width="50" /></a>
-
-        <a href="https://www.codechef.com/users/tathagat786" target="blank"><img align="center"
+  <a href="https://www.codechef.com/users/tathagat786" target="blank"><img align="center"
                         src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb"
                         alt="tathagat786" height="40" width="50" /></a>
-
-        <a href="https://auth.geeksforgeeks.org/user/chikkuu" target="blank"><img align="center"
+  <a href="https://auth.geeksforgeeks.org/user/chikkuu" target="blank"><img align="center"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVHUvpMzlUKnxGtZSXcZ1XXZLxfu9hqc8BB77sNTcGjSbiLhLlqRpntUZhk222DQV9UM&usqp=CAU"
                         alt="chikkuu_gfg" height="40" width="50" /></a>
-
-        <a href="https://www.linkedin.com/in/tathagat-priyadarshi-09495b216/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/tathagat-priyadarshi-09495b216/" target="blank"><img align="center"
                         src="https://www.citypng.com/public/uploads/preview/hd-linkedin-white-logo-transparent-background-31623962286lx7yrezhte.png"
                         alt="tathagat-priyadarshi" height="40" width="50" /></a>
 
