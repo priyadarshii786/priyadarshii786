@@ -37,7 +37,7 @@
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVHUvpMzlUKnxGtZSXcZ1XXZLxfu9hqc8BB77sNTcGjSbiLhLlqRpntUZhk222DQV9UM&usqp=CAU"
                         alt="chikkuu_gfg" height="40" width="50" /></a>
   <a href="https://www.linkedin.com/in/tathagat-priyadarshi-09495b216/" target="blank"><img align="center"
-                        src="[https://www.citypng.com/public/uploads/preview/hd-linkedin-white-logo-transparent-background-31623962286lx7yrezhte.png](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)"
+                        src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
                         alt="tathagat-priyadarshi" height="40" width="50" /></a>
 
 </p>
