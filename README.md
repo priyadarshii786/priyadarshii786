@@ -113,3 +113,31 @@
 
 <img src="https://img.shields.io/github/followers/priyadarshii786.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" />
+        
+<!-- ---------------------------------------STATS------------------------------------------
+--------------------------------------------------------------------------------------------- -->      
+        
+          
+        
+ <details>
+<p align="center">
+  <a href="https://github.com/priyadarshii786">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyadarshii786&theme=transparent" />
+  </a>
+  <a href="https://github.com/priyadarshii786">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadarshii786&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/priyadarshii786">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyadarshii786&theme=transparent" />
+  </a>
+  <a href="https://github.com/priyadarshii786">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadarshii786&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/priyadarshii786">
+    <img src="https://komarev.com/ghpvc/?username=priyadarshii786&color=blue&style=flat)" />
+  </a>
+</p>
