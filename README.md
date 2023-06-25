@@ -51,7 +51,7 @@
 <!-- ---------------------------------- LANGUAGE_AND_TOOLS ---------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<!-- <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                         src="https://techinfini.in/wp-content/uploads/2014/10/Android-PNG-Pic.png" alt="android"
                         width="40" height="40" /> </a>
                         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
@@ -93,7 +93,7 @@
                         height="40" />
         </a>
 
-</p>
+</p> -->
 
 <hr>
 <h2> <img src="git.jpg" alt="priyadarshii786" height="30" width="30" /> MY GITHUB STATS : </h2>
