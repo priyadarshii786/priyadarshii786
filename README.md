@@ -45,8 +45,8 @@
 
 </p>
 
-<hr>
-<h3 align="left"> <img src="download.jpeg" height="20" width="30" /> Languages and Tools:</h3>
+<!-- <hr>
+<h3 align="left"> <img src="download.jpeg" height="20" width="30" /> Languages and Tools:</h3> -->
 
 <!-- ---------------------------------- LANGUAGE_AND_TOOLS ---------------------------------
 --------------------------------------------------------------------------------------------- -->
