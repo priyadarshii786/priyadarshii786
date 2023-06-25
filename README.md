@@ -33,7 +33,7 @@
         <a href="https://www.instagram.com/chik.kuu404/" target="blank"><img align="center"
                         src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_960_720.png"
                         alt="chik.kuu404" height="40" width="50" /></a>
-  <a href="https://www.codechef.com/users/tathagat786" target="blank"><img align="center"
+  <a href="https://www.codechef.com/users/" target="blank"><img align="center"
                         src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb"
                         alt="tathagat786" height="40" width="50" /></a>
   <a href="https://auth.geeksforgeeks.org/user/chikkuu" target="blank"><img align="center"
