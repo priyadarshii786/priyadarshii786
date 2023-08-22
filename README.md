@@ -16,7 +16,6 @@
 - My_Work(3rd Sem)  -   https://priyadarshii786.github.io/Analog_Clock---Project/
 - My_Work(3rd Sem)  -   https://priyadarshii786.github.io/Guess_the_Number-Project/
 - My_Work(3rd Sem)  -   https://priyadarshii786.github.io/Lamp_Project/
-- My_Work(4th Sem)  -   https://priyadarshii786.github.io/Calculator/
 - My_Work(4th Sem)  -   https://priyadarshii786.github.io/Animation/
 - My_Work(4th Sem)  -   https://priyadarshii786.github.io/LGMVIP-Task_1--To-do-list/
 - My_Work(4th Sem)  -   https://priyadarshii786.github.io/LGMVIP-Task_2--Student_Enrollment_Form/
