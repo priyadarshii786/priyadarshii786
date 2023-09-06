@@ -32,23 +32,7 @@
                 src="https://static.vecteezy.com/system/resources/thumbnails/004/991/764/small/employees-teamwork-connection-logo-free-vector.jpg"
                 height="20" width="30" /> Connect with me:</h3>
 
-<!-- ---------------------------------- SKILLS ---------------------------------
---------------------------------------------------------------------------------------------- -->
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" class="animated fadeInLeft delay-1s" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" class="animated fadeInLeft delay-2s" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" class="animated fadeInLeft delay-3s" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React" class="animated fadeInRight delay-1s" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" class="animated fadeInRight delay-2s" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js" class="animated fadeInRight delay-3s" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" class="animated fadeInLeft delay-1s" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django" class="animated fadeInLeft delay-2s" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" class="animated fadeInLeft delay-3s" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" class="animated fadeInRight delay-1s" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" class="animated fadeInRight delay-2s" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" class="animated fadeInRight delay-3s" />
-</div>
 
 <!-- ---------------------------------- CONNECT_WITH_ME ---------------------------------
 --------------------------------------------------------------------------------------------- -->
