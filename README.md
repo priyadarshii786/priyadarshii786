@@ -32,8 +32,8 @@
                 src="https://static.vecteezy.com/system/resources/thumbnails/004/991/764/small/employees-teamwork-connection-logo-free-vector.jpg"
                 height="20" width="30" /> Connect with me:</h3>
 
-
-                ## 💪 Skills 
+<!-- ---------------------------------- SKILLS ---------------------------------
+--------------------------------------------------------------------------------------------- -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" class="animated fadeInLeft delay-1s" />
