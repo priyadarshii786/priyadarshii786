@@ -24,9 +24,9 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| My Website | [view]((https://priyadarshii786.github.io/my_portfolio/)) | - | ` ` | 
+| My Website | [view](https://priyadarshii786.github.io/my_portfolio/) | - | ` ` | 
 | Analog Clock - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Analog_Clock---Project/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
-| Guess the Number - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Guess_the_Number-Project/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
+| Guess the Number - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Guess_the_Number-Project/) | [view](https://github.com/priyadarshii786/Guess_the_Number-Project) | `JavaScript` `CSS3` `HTML5` |
 | Lamp Project - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Lamp_Project/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
 | Animation - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/Animation/) | [view](https://github.com/priyadarshii786/Animation) | `JavaScript` `CSS3` `HTML5` |
 | To-do List - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_1--To-do-list/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_1--To-do-list) | `JavaScript` `CSS3` `HTML5` |
