@@ -25,7 +25,7 @@
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | My Website | [view](https://priyadarshii786.github.io/my_portfolio/) | - | ` ` | 
-| Analog Clock - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Analog_Clock---Project/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
+| Analog Clock - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Analog_Clock---Project/) | [view](https://github.com/priyadarshii786/Analog_Clock---Project) | `JavaScript` `CSS3` `HTML5` |
 | Guess the Number - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Guess_the_Number-Project/) | [view](https://github.com/priyadarshii786/Guess_the_Number-Project) | `JavaScript` `CSS3` `HTML5` |
 | Lamp Project - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Lamp_Project/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
 | Animation - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/Animation/) | [view](https://github.com/priyadarshii786/Animation) | `JavaScript` `CSS3` `HTML5` |
@@ -34,7 +34,7 @@
 | Enrollment Form - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_2--Student_Enrollment_Form/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_2--Student_Enrollment_Form) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Calculator - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_3--Calculator/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_3--Calculator) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Result Management - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_4--Student_Result_Management/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_4--Student_Result_Management) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
-| Intro_app-Flutter - My_Work(4th Sem) | - | [view](https://github.com/priyadarshii786/intro_app-Flutter) |`Flutter` `Dart`| 
+| Intro App - My_Work(4th Sem) | - | [view](https://github.com/priyadarshii786/intro_app-Flutter) |`Flutter` `Dart`| 
 | iCoder - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | Guess the Color - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Guess_the_Color_JS/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
 | Weather App - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Weather_App_JS/) | [view](https://github.com/priyadarshii786/Weather_App_JS) | `JavaScript` `Tailwind` `CSS3` `HTML5` |
