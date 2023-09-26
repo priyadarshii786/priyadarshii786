@@ -16,6 +16,39 @@
 
 - 😄 Pronouns: He/Him
 
+
+<!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
+
+
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| My Website | [view]((https://priyadarshii786.github.io/my_portfolio/)) | - | ` ` | 
+| My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Analog_Clock---Project/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | - |
+| My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Guess_the_Number-Project/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | - |
+| My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Lamp_Project/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | - |
+
+
+| Animation - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/Animation/) | [view](https://github.com/priyadarshii786/Animation) | - |
+| To-do List - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_1--To-do-list/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_1--To-do-list) | - |
+| Netflix Clone - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/Netflix_Clone/) | [view](https://github.com/priyadarshii786/Netflix_Clone) | `JavaScript` `CSS3` `HTML5` |
+| Enrollment Form - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_2--Student_Enrollment_Form/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_2--Student_Enrollment_Form) | - |
+| Calculator - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_3--Calculator/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_3--Calculator) | `JavaScript` `Bootstrap` |
+| Result Management - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_4--Student_Result_Management/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_4--Student_Result_Management) | `JavaScript` `CSS3` `HTML5` |
+| Intro_app-Flutter - My_Work(4th Sem) | - | [view](https://github.com/priyadarshii786/intro_app-Flutter) |`Flutter` `Dart`| 
+
+
+| iCoder - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
+| Guess the Color - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Guess_the_Color_JS/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
+| Weather App - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Weather_App_JS/) | [view](https://github.com/priyadarshii786/Weather_App_JS) | `JavaScript` `Tailwind` `CSS3` `HTML5` |
+| Calculator App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Calculator-Flutter) | `Flutter` `Dart` |
+| BMI Calculator - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/BMI-Calculator) | `Flutter` `Dart` |
+| Food Delivery App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Food_Delivery_App_Flutter) | `Flutter` `Dart` |
+
+
+<br>
+
 - 🔭 Check my website https://priyadarshii786.github.io/my_portfolio/
 - My_Work(3rd Sem)  -   https://priyadarshii786.github.io/Analog_Clock---Project/
 - My_Work(3rd Sem)  -   https://priyadarshii786.github.io/Guess_the_Number-Project/
