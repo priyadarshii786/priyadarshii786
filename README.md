@@ -10,7 +10,7 @@
 
 <img align="center" alt="coding" width="400" src="background me.jpg">
 
-<br>
+<hr>
 
 - 🌱 I’m currently into **Web Development and App Development**
 
@@ -51,13 +51,6 @@
 | Instagram_Clone App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Instagram_Clone--Flutter) | `Flutter` `Dart` |
 
 
-
-<br>
-
-
-<p align="left"> <a href="https://github.com/priyadarshii786/github-profile-trophy"><img
-                        src="https://github-profile-trophy.vercel.app/?username=priyadarshii786&theme=onedark&row=2&column=3"
-                        alt="Priyadarshii786" /></a> </p>
 
 <hr>
 
@@ -167,13 +160,26 @@
                 alt="priyadarshii786" height="170" align="right" />
 </p>
 
+
 <p align="left"><img
                 src="https://github-readme-stats.vercel.app/api?username=priyadarshii786&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
                 alt="priyadarshii786" height="170" /></p>
 <hr>
+
+
 <p align="center"><img align="center"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=priyadarshii786&show_icons=true&theme=dark"
                 alt="priyadarshii786" width="650" /></p>
+
+
+<hr>
+
+<p align="left"> <a href="https://github.com/priyadarshii786/github-profile-trophy"><img
+                        src="https://github-profile-trophy.vercel.app/?username=priyadarshii786&theme=onedark&row=2&column=3"
+                        alt="Priyadarshii786" /></a> </p>
+
+
+<hr>
 
 <img src="https://img.shields.io/github/followers/priyadarshii786.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" />
