@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi!! I'm Tathagat Priyadarshi, a 3rd year Undergraduate Student </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/priyadarshii786/priyadarshii786"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Pursuing+B.Tech+from+Jaipur+Engineering+College,+Jaipur,;A+MERN+Stack+Developer,;A+Flutter+Developer,;A+UI/UX+Designer!"></a>
 </p>
 <!-- jai ganesh -->
