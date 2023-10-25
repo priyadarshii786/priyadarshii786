@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 - 🌱 I’m currently into **Web Development and App Development**
 
@@ -56,7 +56,7 @@
 
 
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <h3 align="left"> <img
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" class="animated fadeInRight delay-3s" />
 </div>
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Languages and Tools:</h3>
 <table><tr><td valign="top" width="33%">
@@ -133,7 +133,10 @@
 
 </td></tr></table>
 
-<hr>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 <h3 align="left"> <img
                 src="https://static.vecteezy.com/system/resources/thumbnails/004/991/764/small/employees-teamwork-connection-logo-free-vector.jpg"
                 height="20" width="30" /> Connect with me:</h3>
@@ -209,7 +212,10 @@
 
 </p> -->
 
-<hr>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 <h2> <img src="git.jpg" alt="priyadarshii786" height="30" width="30" /> MY GITHUB STATS : </h2>
 
 <!-- ---------------------------------------STATS------------------------------------------
@@ -224,7 +230,10 @@
 <p align="left"><img
                 src="https://github-readme-stats.vercel.app/api?username=priyadarshii786&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
                 alt="priyadarshii786" height="170" /></p>
-<hr>
+
+                
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 <p align="center"><img align="center"
@@ -232,14 +241,18 @@
                 alt="priyadarshii786" width="650" /></p>
 
 
-<hr>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <p align="left"> <a href="https://github.com/priyadarshii786/github-profile-trophy"><img
                         src="https://github-profile-trophy.vercel.app/?username=priyadarshii786&theme=onedark&row=2&column=3"
                         alt="Priyadarshii786" /></a> </p>
 
 
-<hr>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <img src="https://img.shields.io/github/followers/priyadarshii786.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" />
@@ -271,3 +284,6 @@
     <img src="https://komarev.com/ghpvc/?username=priyadarshii786&color=blue&style=flat)" />
   </a>
 </p>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
