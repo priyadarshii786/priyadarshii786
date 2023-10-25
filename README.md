@@ -51,6 +51,8 @@
 | Meals App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Meals_App--Flutter) | `Flutter` `Dart` |
 | Nike_responsive App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Nike_responsive--Flutter) | `Flutter` `Dart` |
 | Instagram_Clone App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Instagram_Clone--Flutter) | `Flutter` `Dart` |
+| Box-Office App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Box-Office-App) | `JavaScript` `CSS3` `HTML5` |
+| React Food Sorter - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/React-Food-Sorter) | `JavaScript` `CSS3` `HTML5` |
 
 
 
