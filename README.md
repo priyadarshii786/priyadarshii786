@@ -34,27 +34,30 @@
 | Analog Clock - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Analog_Clock---Project/) | [view](https://github.com/priyadarshii786/Analog_Clock---Project) | `JavaScript` `CSS3` `HTML5` |
 | Guess the Number - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Guess_the_Number-Project/) | [view](https://github.com/priyadarshii786/Guess_the_Number-Project) | `JavaScript` `CSS3` `HTML5` |
 | Lamp Project - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Lamp_Project/) | [view](https://github.com/priyadarshii786/Lamp_Project) | `JavaScript` `CSS3` `HTML5` |
-| Animation - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/Animation/) | [view](https://github.com/priyadarshii786/Animation) | `JavaScript` `CSS3` `HTML5` |
+| Animation - My_Work(3rd Sem) | [view](https://priyadarshii786.github.io/Animation/) | [view](https://github.com/priyadarshii786/Animation) | `JavaScript` `CSS3` `HTML5` |
 | To-do List - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_1--To-do-list/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_1--To-do-list) | `JavaScript` `CSS3` `HTML5` |
 | Netflix Clone - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/Netflix_Clone/) | [view](https://github.com/priyadarshii786/Netflix_Clone) | `JavaScript` `CSS3` `HTML5` |
 | Enrollment Form - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_2--Student_Enrollment_Form/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_2--Student_Enrollment_Form) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Calculator - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_3--Calculator/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_3--Calculator) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Result Management - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_4--Student_Result_Management/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_4--Student_Result_Management) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
-| Intro App - My_Work(4th Sem) | - | [view](https://github.com/priyadarshii786/intro_app-Flutter) |`Flutter` `Dart`| 
+| Intro App (Flutter) - My_Work(4th Sem) | - | [view](https://github.com/priyadarshii786/intro_app-Flutter) |`Flutter` `Dart`|
+| Currency Converter - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
+| Tic-Tac-Toe Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
+| Stone-Paper-Scissors Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | iCoder - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | Guess the Color - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Guess_the_Color_JS/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
 | Weather App - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Weather_App_JS/) | [view](https://github.com/priyadarshii786/Weather_App_JS) | `JavaScript` `Tailwind` `CSS3` `HTML5` |
-| Calculator App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Calculator-Flutter) | `Flutter` `Dart` |
-| BMI Calculator - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/BMI-Calculator) | `Flutter` `Dart` |
-| Food Delivery App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Food_Delivery_App_Flutter) | `Flutter` `Dart` |
-| To-Do App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/To-Do_App--Flutter) | `Flutter` `Dart` |
-| Meals App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Meals_App--Flutter) | `Flutter` `Dart` |
-| Nike_responsive App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Nike_responsive--Flutter) | `Flutter` `Dart` |
-| Instagram_Clone App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Instagram_Clone--Flutter) | `Flutter` `Dart` |
+| Calculator App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Calculator-Flutter) | `Flutter` `Dart` |
+| BMI Calculator (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/BMI-Calculator) | `Flutter` `Dart` |
+| Food Delivery App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Food_Delivery_App_Flutter) | `Flutter` `Dart` |
+| To-Do App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/To-Do_App--Flutter) | `Flutter` `Dart` |
+| Meals App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Meals_App--Flutter) | `Flutter` `Dart` |
+| Nike_responsive App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Nike_responsive--Flutter) | `Flutter` `Dart` |
 | Box-Office App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Box-Office-App) | `JavaScript` `CSS3` `HTML5` |
 | React Food Sorter - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/React-Food-Sorter) | `JavaScript` `CSS3` `HTML5` |
-| Online Sketch-book - My_Work(5th Sem) | [view](https://priyadarshi-sketchbook.vercel.app/) | [view](https://github.com/priyadarshii786/Online-Drawing-Tool) |  |
-| JuiceMart - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
+| Instagram_Clone App (Flutter) - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/Instagram_Clone--Flutter) | `Flutter` `Dart` |
+| Online Sketch-book - My_Work(6th Sem) | [view](https://priyadarshi-sketchbook.vercel.app/) | [view](https://github.com/priyadarshii786/Online-Drawing-Tool) |  |
+| JuiceMart - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
 
 
 
