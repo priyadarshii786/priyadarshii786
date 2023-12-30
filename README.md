@@ -42,8 +42,8 @@
 | Result Management - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_4--Student_Result_Management/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_4--Student_Result_Management) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Intro App (Flutter) - My_Work(4th Sem) | - | [view](https://github.com/priyadarshii786/intro_app-Flutter) |`Flutter` `Dart`|
 | Currency Converter - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/Currency_Converter---4th-Sem/) | [view](https://github.com/priyadarshii786/Currency_Converter---4th-Sem) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
-| Tic-Tac-Toe Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Tic-Tac-Toe--Game---5th-Sem/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
-| Stone-Paper-Scissors Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Stone_Paper_Scissors--Game---4th-Sem/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
+| Tic-Tac-Toe Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Tic-Tac-Toe--Game---5th-Sem/) | [view](https://github.com/priyadarshii786/Tic-Tac-Toe--Game---5th-Sem/) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
+| Stone-Paper-Scissors Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Stone_Paper_Scissors--Game---4th-Sem/) | [view](https://github.com/priyadarshii786/Stone_Paper_Scissors--Game---4th-Sem/) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | iCoder - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | Guess the Color - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Guess_the_Color_JS/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
 | Weather App - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Weather_App_JS/) | [view](https://github.com/priyadarshii786/Weather_App_JS) | `JavaScript` `Tailwind` `CSS3` `HTML5` |
