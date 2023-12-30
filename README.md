@@ -41,7 +41,7 @@
 | Calculator - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_3--Calculator/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_3--Calculator) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Result Management - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_4--Student_Result_Management/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_4--Student_Result_Management) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Intro App (Flutter) - My_Work(4th Sem) | - | [view](https://github.com/priyadarshii786/intro_app-Flutter) |`Flutter` `Dart`|
-| Currency Converter - My_Work(4th Sem) | [view](https://github.com/priyadarshii786/Currency_Converter---4th-Sem) | [view](https://github.com/priyadarshii786/Currency_Converter---4th-Sem) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
+| Currency Converter - My_Work(4th Sem) | [view](https://github.com/priyadarshii786/Currency_Converter---4th-Sem) | [view](https://priyadarshii786.github.io/Currency_Converter---4th-Sem/) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | Tic-Tac-Toe Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | Stone-Paper-Scissors Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | iCoder - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
