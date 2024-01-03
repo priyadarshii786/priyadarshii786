@@ -42,7 +42,7 @@
 | Result Management - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/LGMVIP-Task_4--Student_Result_Management/) | [view](https://github.com/priyadarshii786/LGMVIP-Task_4--Student_Result_Management) | `JavaScript` `Bootstrap` `CSS3` `HTML5` |
 | Intro App (Flutter) - My_Work(4th Sem) | - | [view](https://github.com/priyadarshii786/intro_app-Flutter) |`Flutter` `Dart`|
 | Currency Converter - My_Work(4th Sem) | [view](https://priyadarshii786.github.io/Currency_Converter---4th-Sem/) | [view](https://github.com/priyadarshii786/Currency_Converter---4th-Sem) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
-| Tic-Tac-Toe Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Tic-Tac-Toe--Game---5th-Sem/) | [view](https://github.com/priyadarshii786/Tic-Tac-Toe--Game---5th-Sem/) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
+| Tic-Tac-Toe Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Tic-Tac-Toe--Game---5th-Sem/) | [view](https://github.com/priyadarshii786/Tic-Tac-Toe--Game---5th-Sem/) | `JavaScript` `CSS3` `HTML5` |
 | Stone-Paper-Scissors Game - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Stone_Paper_Scissors--Game---4th-Sem/) | [view](https://github.com/priyadarshii786/Stone_Paper_Scissors--Game---4th-Sem/) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | iCoder - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/iCoder/) | [view](https://github.com/priyadarshii786/iCoder) | `JavaScript` `BootStrap` `CSS3` `HTML5` |
 | Guess the Color - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Guess_the_Color_JS/) | [view](https://github.com/priyadarshii786/Guess_the_Color_JS) | `JavaScript` `CSS3` `HTML5` |
@@ -53,8 +53,8 @@
 | To-Do App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/To-Do_App--Flutter) | `Flutter` `Dart` |
 | Meals App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Meals_App--Flutter) | `Flutter` `Dart` |
 | Nike_responsive App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Nike_responsive--Flutter) | `Flutter` `Dart` |
-| Box-Office App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Box-Office-App) | `JavaScript` `CSS3` `HTML5` |
-| React Food Sorter - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/React-Food-Sorter) | `JavaScript` `CSS3` `HTML5` |
+| Box-Office App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Box-Office-App) | |
+| React Food Sorter - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/React-Food-Sorter) | |
 | Instagram_Clone App (Flutter) - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/Instagram_Clone--Flutter) | `Flutter` `Dart` |
 | Online Sketch-book - My_Work(6th Sem) | [view](https://priyadarshi-sketchbook.vercel.app/) | [view](https://github.com/priyadarshii786/Online-Drawing-Tool) |  |
 | JuiceMart - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
