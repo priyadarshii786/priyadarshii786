@@ -187,6 +187,9 @@
                 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=priyadarshii786&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 <p align="center"><img align="center"
@@ -195,12 +198,20 @@
 
 
 
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<p align="left"> <a href="https://github.com/priyadarshii786/github-profile-trophy"><img
+<!-- <p align="left"> <a href="https://github.com/priyadarshii786/github-profile-trophy"><img
                         src="https://github-profile-trophy.vercel.app/?username=priyadarshii786&theme=onedark&row=2&column=3"
-                        alt="Priyadarshii786" /></a> </p>
+                        alt="Priyadarshii786" /></a> </p> -->
+
+### ✍️ Today's Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=priyadarshii786&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
