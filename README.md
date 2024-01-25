@@ -61,10 +61,10 @@
 | Online Sketch-book - My_Work(6th Sem) | [view](https://priyadarshi-sketchbook.vercel.app/) | [view](https://github.com/priyadarshii786/Online-Drawing-Tool) |  |
 | JuiceMart - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
 | Weather App - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Nike Clone - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Mini Store - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Food Store - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Car Rental - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
+| Nike Clone - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
+| Mini Store - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
+| Food Store - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
+| Car Rental - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
 
 
 
