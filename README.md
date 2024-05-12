@@ -50,7 +50,7 @@
 | Weather App - My_Work(5th Sem) | [view](https://priyadarshii786.github.io/Weather_App_JS/) | [view](https://github.com/priyadarshii786/Weather_App_JS) | `JavaScript` `Tailwind` `CSS3` `HTML5` |
 | Calculator App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Calculator-Flutter) | `Flutter` `Dart` |
 | BMI Calculator (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/BMI-Calculator) | `Flutter` `Dart` |
-| Quiz App (Flutter) - My_Work(5th Sem) | [view](https://priyadarshi-quiz.vercel.app/) | [view](https://github.com/priyadarshii786/React-Quiz-App.git) | `ReactJS` |
+| Quiz App (Flutter) - My_Work(5th Sem) | [view]() | [view](https://github.com/priyadarshii786/Quiz-App-Flutter) | `Flutter` |
 | Food Delivery App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Food_Delivery_App_Flutter) | `Flutter` `Dart` |
 | To-Do App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/To-Do_App--Flutter) | `Flutter` `Dart` |
 | Meals App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Meals_App--Flutter) | `Flutter` `Dart` |
