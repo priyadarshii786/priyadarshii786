@@ -56,6 +56,7 @@
 | Meals App (Flutter) - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Meals_App--Flutter) | `Flutter` `Dart` |
 | Box-Office App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Box-Office-App) | |
 | React Food Sorter - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/React-Food-Sorter) | |
+| React Quiz App - My_Work(6th Sem) | [view](https://priyadarshi-quiz.vercel.app/) | [view](https://github.com/priyadarshii786/React-Quiz-App) | `ReactJS`|
 | Nike_responsive App (Flutter) - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/Nike_responsive--Flutter) | `Flutter` `Dart` |
 | Instagram_Clone App (Flutter) - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/Instagram_Clone--Flutter) | `Flutter` `Dart` |
 | Online Sketch-book - My_Work(6th Sem) | [view](https://priyadarshi-sketchbook.vercel.app/) | [view](https://github.com/priyadarshii786/Online-Drawing-Tool) |  |
