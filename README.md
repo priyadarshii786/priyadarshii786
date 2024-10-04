@@ -60,12 +60,16 @@
 | Nike_responsive App (Flutter) - My_Work(6th Sem) | [view](https://drive.google.com/drive/folders/18nqJRwJD6BLK3IJllvJjNPyURdLegZGH?usp=sharing ) | [view](https://github.com/priyadarshii786/Nike_responsive--Flutter) | `Flutter` `Dart` |
 | Instagram_Clone App (Flutter) - My_Work(6th Sem) | [view](https://drive.google.com/drive/folders/18nqJRwJD6BLK3IJllvJjNPyURdLegZGH?usp=sharing ) | [view](https://github.com/priyadarshii786/Instagram_Clone--Flutter) | `Flutter` `Dart` |
 | Online Sketch-book - My_Work(6th Sem) | [view](https://priyadarshi-sketchbook.vercel.app/) | [view](https://github.com/priyadarshii786/Online-Drawing-Tool) |  |
-| JuiceMart - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Weather App - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Nike Clone - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Mini Store - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Food Store - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
-| Car Rental - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/JuiceMart) |  |
+| DigiSamvaad - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/DigiSamvaad) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
+| Connectify - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/Connectify) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
+| TrendTrove - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/TrendTrove) | `Flutter, Firebase` |
+| TrendTrove.com - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/TrendTrove.com) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
+| FreshNest - My_Work(7th Sem) | - | [view](https://github.com/traineegokku/FreshNest___Mobile_App_UI) | `Flutter, NodeJS, ExpressJs, MongoDB` |
+| PicNest - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/PicNest) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
+| SwaadSansaar - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/SwaadSansaar) | `Flutter, Firebase` |
+
+
+
 
 
 
