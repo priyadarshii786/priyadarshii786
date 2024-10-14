@@ -55,18 +55,20 @@
 | To-Do App (Flutter) - My_Work(5th Sem) | [view](https://drive.google.com/drive/folders/18nqJRwJD6BLK3IJllvJjNPyURdLegZGH?usp=sharing ) | [view](https://github.com/priyadarshii786/To-Do_App--Flutter) | `Flutter` `Dart` |
 | Meals App (Flutter) - My_Work(5th Sem) | [view](https://drive.google.com/drive/folders/18nqJRwJD6BLK3IJllvJjNPyURdLegZGH?usp=sharing ) | [view](https://github.com/priyadarshii786/Meals_App--Flutter) | `Flutter` `Dart` |
 | Box-Office App - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/Box-Office-App) | |
-| React Food Sorter - My_Work(5th Sem) | - | [view](https://github.com/priyadarshii786/React-Food-Sorter) | |
+| React Food Sorter - My_Work(6th Sem) | - | [view](https://github.com/priyadarshii786/React-Food-Sorter) | |
 | React Quiz App - My_Work(6th Sem) | [view](https://priyadarshi-quiz.vercel.app/) | [view](https://github.com/priyadarshii786/React-Quiz-App) | `ReactJS`|
 | Nike_responsive App (Flutter) - My_Work(6th Sem) | [view](https://drive.google.com/drive/folders/18nqJRwJD6BLK3IJllvJjNPyURdLegZGH?usp=sharing ) | [view](https://github.com/priyadarshii786/Nike_responsive--Flutter) | `Flutter` `Dart` |
 | Instagram_Clone App (Flutter) - My_Work(6th Sem) | [view](https://drive.google.com/drive/folders/18nqJRwJD6BLK3IJllvJjNPyURdLegZGH?usp=sharing ) | [view](https://github.com/priyadarshii786/Instagram_Clone--Flutter) | `Flutter` `Dart` |
 | Online Sketch-book - My_Work(6th Sem) | [view](https://priyadarshi-sketchbook.vercel.app/) | [view](https://github.com/priyadarshii786/Online-Drawing-Tool) |  |
 | DigiSamvaad - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/DigiSamvaad) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
 | Connectify - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/Connectify) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
-| TrendTrove - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/TrendTrove) | `Flutter, Firebase` |
+| TrendTrove (Flutter) - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/TrendTrove) | `Flutter, Firebase` |
 | TrendTrove.com - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/TrendTrove.com) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
-| FreshNest - My_Work(7th Sem) | - | [view](https://github.com/traineegokku/FreshNest___Mobile_App_UI) | `Flutter, NodeJS, ExpressJs, MongoDB` |
+| FreshNest (Flutter) - My_Work(7th Sem) | - | [view](https://github.com/traineegokku/FreshNest___Mobile_App_UI) | `Flutter, NodeJS, ExpressJs, MongoDB` |
 | PicNest - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/PicNest) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
-| SwaadSansaar - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/SwaadSansaar) | `Flutter, Firebase` |
+| SwaadSansaar (Flutter) - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/SwaadSansaar) | `Flutter, Firebase` |
+| EduSphere (Flutter) - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/EduSphere) | `Flutter, Firebase` |
+| ChitraKunj - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/ChitraKunj-Frontend) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
 
 
 
