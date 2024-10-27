@@ -66,6 +66,7 @@
 | TrendTrove.com - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/TrendTrove.com) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
 | FreshNest (Flutter) - My_Work(7th Sem) | - | [view](https://github.com/traineegokku/FreshNest___Mobile_App_UI) | `Flutter, NodeJS, ExpressJs, MongoDB` |
 | PicNest - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/PicNest) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
+| FitNest (Flutter) - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/SwaadSansaar) | `Flutter, NodeJS, ExpressJs, MongoDB` |
 | SwaadSansaar (Flutter) - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/SwaadSansaar) | `Flutter, Firebase` |
 | EduSphere (Flutter) - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/EduSphere) | `Flutter, Firebase` |
 | ChitraKunj - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/ChitraKunj-Frontend) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
