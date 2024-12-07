@@ -78,7 +78,7 @@
 
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <h3 align="left"> <img
@@ -97,21 +97,21 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" class="animated fadeInRight delay-1s" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" class="animated fadeInRight delay-2s" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" class="animated fadeInRight delay-3s" />
-</div>
+</div> -->
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 
-<h3 align="left"> <img
+<!-- <h3 align="left"> <img
                 src="https://static.vecteezy.com/system/resources/thumbnails/004/991/764/small/employees-teamwork-connection-logo-free-vector.jpg"
-                height="20" width="30" /> Connect with me:</h3>
+                height="20" width="30" /> Connect with me:</h3> -->
 
 
 
 <!-- ---------------------------------- CONNECT_WITH_ME ---------------------------------
 --------------------------------------------------------------------------------------------- -->
-
+<!--
 <p align="left">
         <a href="https://www.instagram.com/chik.kuu404/" target="blank"><img align="center"
                         src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_960_720.png"
@@ -126,7 +126,7 @@
                         src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
                         alt="tathagat-priyadarshi" height="40" width="50" /></a>
 
-</p>
+</p> -->
 
 <!-- <hr>
 <h3 align="left"> <img src="download.jpeg" height="20" width="30" /> Languages and Tools:</h3> -->
@@ -219,12 +219,12 @@
                         src="https://github-profile-trophy.vercel.app/?username=priyadarshii786&theme=onedark&row=2&column=3"
                         alt="Priyadarshii786" /></a> </p> -->
 
-### ✍️ Today's Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<!-- ### ✍️ Today's Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light) -->
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyadarshii786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=priyadarshii786&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 
 
