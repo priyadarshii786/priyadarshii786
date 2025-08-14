@@ -63,10 +63,8 @@
 | FreshNest (Web) - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/FreshNest-Web) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
 | Samvaad - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/Samvaad) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
 | SkillNest - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/Skillnest) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
-| Connectify - My_Work(7th Sem) | - | [view](https://github.com/priyadarshii786/Connectify) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
 | TrendTrove (Flutter) - My_Work(8th Sem) | - | [view](https://github.com/priyadarshii786/TrendTrove) | `Flutter, Firebase` |
 | TrendTrove.com - My_Work(8th Sem) | - | [view](https://github.com/priyadarshii786/TrendTrove.com) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
-
 | PicNest - My_Work(8th Sem) | - | [view](https://github.com/priyadarshii786/PicNest) | `MongoDB, ExpressJs, ReactJS, NodeJS` |
 
 
